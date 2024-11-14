@@ -1,0 +1,7 @@
+numpy==1.26.4
+kagglehub
+pandas
+setuptools
+sweetviz
+scikit-learn
+plotly
