@@ -91,8 +91,6 @@ fastapi dev app/main.py
 
 Após a execução acesse a documentação da API em `http://127.0.0.1:8000/docs`.
 
+## Referências
 
-## Autores
-
-- Giancarlo Vanoni Ruggiero
-- Lucas Hix
+- [Electric Vehicle Charging Patterns](https://www.kaggle.com/datasets/valakhorasani/electric-vehicle-charging-patterns)
