@@ -63,14 +63,12 @@ Além das classes de usuários citadas acima, o dataset original possui a classe
 
 ## Treinamento
 
-> [!TIP]
-> O treinamento do modelo pode ser encontrado no arquivo `notebooks/training.ipynb`.
+Mais detalhes sobre o treinamento do do modelo podem ser encontrados no arquivo `notebooks/training.ipynb`.
 
-O modelo utilizado foi o `RandomForestClassifier`. Inicialmente foi utilizado o `GridSearchCV` para encontrar os melhores hiperparâmetros para o modelo, entretanto, devido a sua baixa acurácia, foi utilizado o `SequentialFeatureSelector` para selecionar as melhores features para o modelo, com os hiperparâmetros obtidos no `GridSearchCV`.
 
 ## Avaliação
 
-A acurácia do modelo foi de `0.79`. Mais detalhes sobre a avaliação do modelo podem ser encontrados no arquivo `notebooks/training.ipynb`.
+Mais detalhes sobre a avaliação do modelo podem ser encontrados no arquivo `notebooks/training.ipynb`.
 
 
 ## API
